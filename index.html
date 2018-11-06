@@ -4,8 +4,8 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-        <h1>Welcome to xudailong's blog </h1>
-        <small>这里是我的个人IT学习小天地</small>
+        <h1>Welcome 来了既是缘分!</h1>
+        <small>这里记录着我的学习，总结，分享之路</small>
         <hr>
         <ul>
             {% for post in paginator.posts %}
@@ -71,7 +71,7 @@ layout: default
             <div class="side">
                 <div>
                     <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-                    Recent Posts
+                    近期文章
                 </div>
                 <ul class="content-ul" recent>
                     {% for post in site.posts offset: 0 limit: 10  %}
@@ -84,7 +84,7 @@ layout: default
             <div class="side ">
                 <div>
                     <i class="fa fa-th-list"></i>
-                    Categories
+                    云标签
                 </div>
                 <ul class="content-ul" cate>
                     {% for category in site.categories %}
