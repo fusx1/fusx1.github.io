@@ -79,7 +79,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 设计概要
 
 [//]:![通用服务](../images/tongyongfuwu_nt.jpg?v=55)
-![通用服务]({{site.url}}/images/tongyongfuwu_nt.jpg?v=55)
+![通用服务](/images/tongyongfuwu_nt.jpg?v=55)
 
 > Before VS After 
 
