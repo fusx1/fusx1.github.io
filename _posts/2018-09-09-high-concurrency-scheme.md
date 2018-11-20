@@ -10,8 +10,6 @@ author: FUSX
 * content
 {:toc}
 
-## 大话程序猿眼里的高并发架构
-
 ### 前言
 高并发经常会发生在有大活跃用户量，用户高聚集的业务场景中，如：秒杀活动，定时领取红包等。  
 为了让业务可以流畅的运行并且给用户一个好的交互体验，我们需要根据业务场景预估达到的并发量等因素，来设计适合自己业务场景的高并发处理方案。   
@@ -82,7 +80,7 @@ author: FUSX
 
 场景： 用户签到，用户中心，用户订单，等  
 服务器架构图：
-![通用](http://blog.thankbabe.com/imgs/gbf-common2.png) 
+![通用](/images/gbf-common2.png) 
 
 说明：     
 
@@ -126,7 +124,7 @@ author: FUSX
 
 场景：定时领取红包，等  
 服务器架构图： 
-![消息队列](http://blog.thankbabe.com/imgs/gbf-list.png)
+![消息队列](/images/gbf-list.png)
 
 说明： 
 
@@ -163,7 +161,7 @@ author: FUSX
 
 
 服务器架构图： 
-![通用](http://blog.thankbabe.com/imgs/cache.png) 
+![通用](/images/cache.png) 
 
 
 合理的规范和使用nosql缓存数据库，根据业务拆分缓存数据库的集群，这样基本可以很好支持业务，一级缓存毕竟是使用站点服务器缓存所以还是要善用。

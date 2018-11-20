@@ -9,8 +9,6 @@ tags: 挂马 篡改
 * content
 {:toc}
 
-## 记一次站点被挂马问题排查
-
 ---
 起因，在下班准备回家之际，收到几条朋友发来的信息，说他的网站在百度搜索做信息流广告推广，但是从百度搜索点击打开就会跳转的博彩网站，让我帮忙排查下问题，是不是被挂马了，于是乎就开始了后面的故事
 
@@ -83,7 +81,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
 A parser-blocking, cross site (i.e. different eTLD+1) script,https://www.cpdas8.com/cxc.js, is invoked via document.write
 
 ```
-![image](http://blog.thankbabe.com/imgs/mm_tz.png)
+![image](/images/mm_tz.png)
 
 明了了，就是这段脚本把cxc.js动态的引入到站点里，现在跳转的原因是找到了，但是为啥会好端端的多了这段代码，继续后面的分析
 
@@ -101,7 +99,7 @@ A parser-blocking, cross site (i.e. different eTLD+1) script,https://www.cpdas8.
 ---
 番外，里面还有段篡改SEO关键词代码，这里也需要去掉：   
 篡改了keyword/description/title
-![image](http://blog.thankbabe.com/imgs/mm_seo.png?v=666)
+![image](/images/mm_seo.png?v=666)
 
 ---
 

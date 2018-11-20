@@ -10,8 +10,6 @@ author: FUSX
 * content
 {:toc} 
 
-# 大话后端开发的奇淫技巧大集合
-
 [//]:![Before VS After](../images/haixiu.jpg?v=666)
 ![Before VS After](/images/haixiu.jpg?v=666)
 Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这些年在后端开发过程中总结沉淀下来的经验和设计思路分享出来

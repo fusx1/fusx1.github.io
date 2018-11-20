@@ -10,9 +10,6 @@ author: FUSX
 * content
 {:toc}
 
-
-# 高并发业务接口开发思路(实战)
-
 高并发业务除了需要有支撑高并发的服务器架构，还需要根据业务需求和架构体系，设计出合理的开发方案，
 这里根据一个实践过业务场景分析开发思路，罗列出高并发接口需要注意的点，以及设计上的巧思，共勉之，望共鸣
 
@@ -70,7 +67,7 @@ author: FUSX
 
 #### 缓存结构图
 
-![image](http://blog.thankbabe.com/imgs/haohuo_datas.png)  
+![image](/images/haohuo_datas.png)  
 
 ---
 
@@ -113,7 +110,7 @@ author: FUSX
 
 #### 架构图
 
-![image](http://blog.thankbabe.com/imgs/haohuo.png)   
+![image](/images/haohuo.png)   
 
 --- 
 ## 总结
