@@ -13,7 +13,7 @@ author: FUSX
 # 大话后端开发的奇淫技巧大集合
 
 [//]:![Before VS After](../images/haixiu.jpg?v=666)
-![Before VS After]({{site.url}}/images/haixiu.jpg?v=666)
+![Before VS After](/images/haixiu.jpg?v=666)
 Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这些年在后端开发过程中总结沉淀下来的经验和设计思路分享出来
 
 
@@ -49,12 +49,12 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 设计概要
 
 [//]:![红包模块](../images/hongbao_nt.jpg?v=111)
-![红包模块]({{site.url}}/images/hongbao_nt.jpg?v=111)
+![红包模块](/images/hongbao_nt.jpg?v=111)
 
 > Before VS After 
 
 [//]:![Before VS After](../images/hongbao2.png?v=33)
-![Before VS After]({{site.url}}/images/hongbao2.png?v=33)
+![Before VS After](/images/hongbao2.png?v=33)
 
 
 > 产品有时提出的业务需求没有往这方面去考虑，结合场景和未来拓展需要，在需求讨论的时候提出模块化设计方案，并可以协助产品进行设计
@@ -86,7 +86,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > Before VS After 
 
 [//]:![通用服务](imgs/tongyongfuwu.png?v=12)
-![通用服务]({{site.url}}/images/tongyongfuwu.png?v=12)
+![通用服务](/images/tongyongfuwu.png?v=12)
 
 
 ---
@@ -114,7 +114,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 用户行为跟踪服务的服务架构图
 
 [//]:![独立服务](../images/dulifuwu.png?v=55)
-![独立服务]({{site.url}}/images/dulifuwu.png?v=55)
+![独立服务](/images/dulifuwu.png?v=55)
 
 
 
@@ -157,7 +157,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 服务端缓存架构图
 
 [//]:![缓存](../images/huancun_pt.png?v=99)
-![缓存]({{site.url}}/images/huancun_pt.png?v=99)
+![缓存](/images/huancun_pt.png?v=99)
 
 ---
 
@@ -191,7 +191,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 【业务异步处理】架构图
 
 [//]:![通用服务](../images/yewuyibu.png?v=99)
-![通用服务]({{site.url}}/images/yewuyibu.png?v=99)
+![通用服务](/images/yewuyibu.png?v=99)
 
 > 【业务异步处理】除了可以在高并发业务中使用，在上面通用服务的设计里也是用这种架构方式
 
@@ -229,7 +229,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 高并发优化概要图
 
 [//]:![高并发](../images/gaobinfa_nc.jpg?v=66)
-![高并发]({{site.url}}/images/gaobinfa_nc.jpg?v=66)
+![高并发](/images/gaobinfa_nc.jpg?v=66)
 
 ---
 
@@ -277,7 +277,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 > 防刷/防羊毛党套路概要图
 
 [//]:![防刷套路](../images/fangshua.jpg?v=99)
-![防刷套路]({{site.url}}/images/fangshua.jpg?v=99)
+![防刷套路](/images/fangshua.jpg?v=99)
 
 **附加**
 
@@ -428,7 +428,7 @@ Hi，大家好，很荣幸有这个机会可以通过写博文的方式，把这
 * 知识很重要，她虽然不能直接给你财富，但是可以给你很多机会，活到老学到老
 
 [//]:![aixin](../images/bixin.gif?v=11)
-![aixin]({{site.url}}/images/bixin.gif?v=11)
+![aixin](/images/bixin.gif?v=11)
 
 ---
 
