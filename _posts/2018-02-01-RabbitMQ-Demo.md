@@ -15,6 +15,10 @@ RabbitMQ是一个由erlang开发的基于AMQP（Advanced Message Queue）协议�
 [RabbitMQ的官方](https://www.rabbitmq.com/)   
 
 ![image](/images/306976-20160720104037044-1071063805.png)
+
+
+
+
 * 概念：
     * Brocker：消息队列服务器实体。
     * Exchange：消息交换机，指定消息按什么规则，路由到哪个队列。
@@ -45,12 +49,7 @@ RabbitMQ是一个由erlang开发的基于AMQP（Advanced Message Queue）协议�
     * headers：该类型不依赖于routing key与binding key的匹配规则来路由消息，而是根据发送的消息内容中的headers属性进行匹配
 * 使用场景
     * [官方介绍](https://www.rabbitmq.com/getstarted.html)  
-
 ---
-
-
-
-
 ### 下载与安装
 * 下载
     * [rabbitmq ](http://www.rabbitmq.com/download.html)
