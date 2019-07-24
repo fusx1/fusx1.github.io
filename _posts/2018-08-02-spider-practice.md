@@ -318,7 +318,7 @@ print orders
 
 #### **自我推荐**
 
-* 爬虫入门可以参考我的另一篇文章：[（大话爬虫的基本套路）](https://blog.thankbabe.com/2017/09/25/spider/)
+* 爬虫入门可以参考我的另一篇文章：[（大话爬虫的基本套路）](https://fusx1.github.io/2018/08/01/spider//)
 * 爬虫入门代码可以参考我的Gtihub项目[（SpiderDemo）](https://github.com/SFLAQiu/SpiderDemo)
 
  
